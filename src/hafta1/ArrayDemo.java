@@ -30,8 +30,10 @@ public class ArrayDemo {
 		cars[3] = "Bmw";
 		
 		for (String car : cars) {
+			
 			System.out.println(car);
 		}
 	}
+	
 
 }
