@@ -9,7 +9,7 @@ public class WhileLoop {
 			i++;
 		}
 		
-		System.out.println("While döngüsü bitti!");
+		System.out.println("While döngüsü bitti!!");
 
 	}
 
