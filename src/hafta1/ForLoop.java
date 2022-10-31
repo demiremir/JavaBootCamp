@@ -1,6 +1,6 @@
 package hafta1;
 
-import java.util.Iterator;
+//import java.util.Iterator;
 
 public class ForLoop {
 
