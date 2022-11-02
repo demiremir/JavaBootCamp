@@ -28,5 +28,9 @@ public class Methods {
 			System.out.println("Sayı mevcut degil");
 		}
 	}
+	
+	public static void mesajVer() {
+		
+	}
 
 }
